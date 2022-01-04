@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.firstmav.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.078 s <<< FAILURE! - in org.apache.firstmav.AppTest
+shouldAnswerWithTrue(org.apache.firstmav.AppTest)  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError
+	at org.apache.firstmav.AppTest.shouldAnswerWithTrue(AppTest.java:18)
+
